@@ -10,7 +10,7 @@ Minimal static website for IconicGreen LLC.
 
 ## Before publishing
 
-Replace `hello@iconicgreen.example` with the real company email address.
+The published contact email is `rtr989@gmail.com`.
 
 ## Quick deploy options
 
